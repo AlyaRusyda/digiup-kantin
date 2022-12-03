@@ -17,8 +17,8 @@ if (isset($search)) {
     <?php
     foreach ($records as $idx => $data) {
     ?>
-        <div class="col-sm-4 mb-3">
-            <div class="card mb-5">
+        <div class="col-sm-4 mb-2">
+            <div class="card">
                 <img id="preview" src="<?= empty($gambar) ? BASE_ASSETS . 'uploads/' . $data['gambar'] : BASE_ASSETS . 'uploads/noimage.jpg' ?>" width="414" />
                 <div class="card-body">
                     <h5 class="card-title"><?= $data['nama_menu'] ?></h5>
