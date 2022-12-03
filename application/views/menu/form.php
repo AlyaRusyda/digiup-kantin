@@ -69,7 +69,7 @@
             <label>Gambar</label>
             <div class="col-sm-6">
                 <input type="file" name="gambar" id="gambar" accept="image/*" onchange="loadFile(event)" class="form-control mb-3" />
-                <img id="preview" src="<?= empty($gambar) ? BASE_ASSETS . 'assets/uploads/noimage.jpg'  : BASE_ASSETS . 'assets/uploads/' .$gambar ?>" width="200" />
+                <img id="preview" src="<?= empty($gambar) ? BASE_ASSETS . 'uploads/noimage.jpg'  : BASE_ASSETS . 'uploads/' .$gambar ?>" width="200" />
             </div>
         </div>
 
