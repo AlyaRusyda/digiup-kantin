@@ -31,7 +31,8 @@ Berikut adalah bahasa pemrograman dan teknologi yang digunakan dalam proses peng
 
 ## Preview Pages
 ### Homepage + Pagination
-<img width="960" alt="Screenshot 2022-12-03 094643" src="https://user-images.githubusercontent.com/100183012/205419724-67de13d8-e45b-4237-a008-2e4cb48297a1.png">
+
+<img width="960" alt="Screenshot 2022-12-03 110424" src="https://user-images.githubusercontent.com/100183012/205421877-4a44c720-d8c7-4329-a4c1-c8fd5ff2c0f7.png">
 
 
 ### Kantin
@@ -50,7 +51,7 @@ Berikut adalah bahasa pemrograman dan teknologi yang digunakan dalam proses peng
 <img width="960" alt="Screenshot 2022-12-03 094910" src="https://user-images.githubusercontent.com/100183012/205419742-9e79722b-7f07-48c7-b90f-1f93956fdf97.png">
 
 #### Details
-<img width="960" alt="Screenshot 2022-12-03 095049" src="https://user-images.githubusercontent.com/100183012/205419745-5d49e380-44b0-40d7-88f5-2009c2adb5f4.png">
+<img width="960" alt="Screenshot 2022-12-03 110252" src="https://user-images.githubusercontent.com/100183012/205421836-3f955879-e826-4c6a-984c-3570da7e510a.png">
 
 #### Form
 <img width="960" alt="Screenshot 2022-12-03 095121" src="https://user-images.githubusercontent.com/100183012/205419756-8ab8c68c-06f5-46a9-9eb9-0aa45fd54e25.png">
