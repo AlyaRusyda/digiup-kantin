@@ -6,9 +6,7 @@ Project for DigiUp Certification Junior Web Developer
 
 Kantin digital menggunakan CodeIgniter
 
-### Bahasa Pemrograman dan Teknologi
-
-Berikut adalah bahasa pemrograman dan teknologi yang digunakan dalam proses pengembangan
+### Language and Technology
 
 * PHP
 * HTML
