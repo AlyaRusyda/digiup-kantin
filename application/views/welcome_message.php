@@ -19,7 +19,7 @@ if (isset($search)) {
     ?>
         <div class="col-sm-4 mb-3">
             <div class="card mb-5">
-                <img id="preview" src="<?= empty($gambar) ? BASE_ASSETS . 'uploads/noimage.jpg'  : BASE_ASSETS . 'uploads/' . $gambar ?>" width="414" />
+                <img id="preview" src="<?= empty($gambar) ? BASE_ASSETS . 'uploads/' . $data['gambar'] : BASE_ASSETS . 'uploads/noimage.jpg' ?>" width="414" />
                 <div class="card-body">
                     <h5 class="card-title"><?= $data['nama_menu'] ?></h5>
                     <p class="card-text"><?= word_limiter($data['deskripsi'], 5) ?> <a href="<?= base_url("menu/detail/{$data['id']}") ?>" class="btn btn-sm btn-primary">Detail</a></p>
