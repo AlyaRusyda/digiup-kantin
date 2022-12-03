@@ -16,6 +16,8 @@
   ?>
   <h1>Detail Menu</h1>
   <dl>
+    
+    <dd><img src="<?php echo base_url('assets/uploads/' . $gambar); ?>" width="300" class="rounded"></dd>
     <dt>Nama Menu</dt>
     <dd><?= $nama_menu ?></dd>
 
@@ -24,11 +26,7 @@
 
     <dt>Harga</dt>
     <dd><?= $harga ?></dd>
-
-    <dt>Gambar</dt>
-
-    <dd><img src="<?php echo base_url('assets/uploads/' . $gambar); ?>" width="200"></dd>
-
+    
     <dt>Nama Kantin</dt>
     <?php
     $this->db->select('*')
